@@ -216,6 +216,13 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = NikhilP;
 				TargetAttributes = {
+					4C7EB92318BACEBE00A28FF6 = {
+						SystemCapabilities = {
+							com.apple.iOS = {
+								enabled = 0;
+							};
+						};
+					};
 					4C7EB94F18BACEBE00A28FF6 = {
 						TestTargetID = 4C7EB92318BACEBE00A28FF6;
 					};
